@@ -9,10 +9,11 @@ python-decouple = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
 whitenoise = "*"
+dj-database-url = "*"
+django-cloudinary-storage = "*"
 cloudinary = "*"
 twilio = "*"
 requests = "*"
-dj-database-url = "*"
 
 [dev-packages]
 
